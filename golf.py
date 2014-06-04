@@ -304,7 +304,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like G
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 OPR/18.0.1284.68
 Opera/9.80 (Macintosh; Intel Mac OS X 10.9.1) Presto/2.12.388 Version/12.16
 Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.16''', "\n")
-print mobile
+
 ##############################################################################
 
 ALL = [ # An example has two sets of strings, each with a one-character initial identifying it.
