@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-# regexgolf for mobile vs desktop browser's User-Agents
+# regexgolf-mobile-useragent
+
+regexgolf for mobile vs desktop browser's User-Agents
+
+Program (based off Peter Norvig's code) to generate the shortest
+regular expression to match a mobile browser's User-Agent.
 
 The shortest regular expression that can match a mobile browser's
 User-Agent, generated from two lists: one of known mobile user-agents,
@@ -23,9 +27,3 @@ http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313-part2.ipynb?create=1
 
 * http://goo.gl/nE45NJ
 
-=======
-regexgolf-mobile-useragent
-==========================
-
-Program (based off Peter Norvig's code) to generate the shortest regular expression to match a mobile browser's User-Agent.
->>>>>>> dd7e92117d0f2b953cf7c3d452a0aa32b5d9d061
